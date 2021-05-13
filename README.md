@@ -14,9 +14,10 @@ public static void main(String[] args){
     System.out.println(“This is the beginning ！”）;
 }
 ```
+* 然后这是[我的GitHub主页](https://github.com/Jaryarbn)
 * 比如想去接触、体会、感受不同的人、不同的生活、不同的风景
 * balabala...
 6. 当然我也可以接受自己很无趣，毕竟世界那么大，人生如此短
 7. 我真正在乎的是这世上有我爱的人与爱我的人
 8. 他们教会我去寻找内心的宁静与自由
-9. That's enough!
+9. That's enough.
